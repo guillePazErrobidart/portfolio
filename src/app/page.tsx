@@ -1,5 +1,4 @@
 import { FaUser, FaHeadphones , FaEnvelope } from "react-icons/fa";
-import Link from "next/link";
 import { Card } from "./components/Card";
 
 export default function Home() {

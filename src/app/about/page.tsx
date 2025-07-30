@@ -41,18 +41,18 @@ export default function AboutPage() {
       ) : (
         <>
           <p>
-            Hi! I'm Guille Paz Errobidart and I live in the city of La Plata. I
+            Hi! Im Guille Paz Errobidart and I live in the city of La Plata. I
             studied Broadcasting, which helped me develop communication skills
             that I now apply both professionally and in my personal projects. I
             enjoy teaching and sharing everything I learn.
           </p>
           <p className="mt-4">
             I trained as a fullstack developer, focusing on React, TypeScript,
-            Node, and GraphQL. I'm also a Scrum Master with certification in
+            Node, and GraphQL. Im also a Scrum Master with certification in
             AGILE methodologies.
           </p>
           <p className="mt-4">
-            I'm always open to learning new technologies or languages as
+            Im always open to learning new technologies or languages as
             required by the context.
           </p>
         </>
